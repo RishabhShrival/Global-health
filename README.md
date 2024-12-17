@@ -7,14 +7,23 @@ This project analyzes factors influencing suicidal behavior using machine learni
 ## 📁 **Directory Structure**
 
 ├── DATASET/
+
 │ └── UP_BH_Individual_UDAYA 2_Uploaded.dta # Original dataset (UDAYA survey data)
+
 ├── preprocess.ipynb # Data preprocessing and feature selection
-├── ML models and results/  
+
+├── ML models and results/
+
 │ └── model.ipynb # Machine learning models and results
+
 │ └── data visualization.ipynb # Feature analysis and visualizations
+
 ├── research_papers/ # Reference research papers (PDF format)
+
 ├── extract.ipynb # Further analysis using additional datasets
+
 ├── README.md # Project documentation
+
 ├── Myfile.doc #data description
 
 # Canva Presentation link
